@@ -2,8 +2,8 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Engineering in AIML
 - 💞️ I’m looking to collaborate on All kinds of projects
-- 📫 How to reach me @SSRyadav_22 on Telegram
-- 😄 Pronouns: Sai
+- 📫 How to reach me @SSRyadav_22 on Instagram
+- 😄 Pronouns: He
 
 <!---
 SSRyadav-22/SSRyadav-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
